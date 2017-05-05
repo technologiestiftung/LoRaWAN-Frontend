@@ -2,7 +2,9 @@
 
 This experimental visualization shows sensor data from an arduino ultrasonic sensor, transmitted via LoRaWAN through [TheThingsNetwork] (TTN) and a Node.js backend. We use it as a level meter for our trashcan :)
 
-![Screenshot](/img/bin.png?raw=true)
+
+![Screenshot](/img/screenshot.png?raw=true)
+
 
 Our full tutorial can be found [here].
 
